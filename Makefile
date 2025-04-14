@@ -1,5 +1,5 @@
 PKG_NAME := R-MetricsWeighted
-URL = https://cran.r-project.org/src/contrib/MetricsWeighted_1.0.3.tar.gz
+URL = https://ftp.osuosl.org/pub/cran/src/contrib/MetricsWeighted_1.0.4.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
